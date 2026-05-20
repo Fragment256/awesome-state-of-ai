@@ -6,21 +6,42 @@ Curated by [Fragment256](https://fragment256.com). Contributions welcome — see
 
 ---
 
+## Key Numbers
+
+A snapshot of where things stand, from the sources below.
+
+- **88%** of companies are using AI in at least one business function — but only **7%** have fully scaled it. ([McKinsey, 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai))
+- **72%** of workers regularly use AI — but only **37%** of companies can demonstrate clear ROI. ([BCG, Jun 2025](https://www.bcg.com/publications/2025/ai-at-work-momentum-builds-but-gaps-remain))
+- **13%** of organisations have deployed AI agents integrated into broader workflows. ([BCG, Jun 2025](https://www.bcg.com/publications/2025/ai-at-work-momentum-builds-but-gaps-remain))
+- **30%** of customer service cases are now handled by AI — projected to reach **50%** by 2027. ([Salesforce, 2025](https://www.salesforce.com/news/stories/state-of-service-report-announcement-2025/))
+- GitHub's Copilot coding agent authored over **1 million pull requests** in five months. ([GitHub Octoverse, 2025](https://octoverse.github.com/))
+- **18%** of U.S. firms have integrated AI into their production workflows. ([Federal Reserve, Apr 2026](https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html))
+
+---
+
 ## Research
 
 Industry surveys, analyst reports, and institutional data on how companies are adopting AI.
+
+- **[AI Index Report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report)** — Stanford HAI, Apr 2026. The field's most comprehensive annual snapshot: technical progress, investment flows, adoption rates, labour market impact, and policy. Freely available including [full PDF](https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf).
 
 - **[The State of AI in 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)** — McKinsey QuantumBlack, Mar 2025. What separates companies rewiring around AI from those still experimenting — adoption rates, ROI patterns, and where most organisations stall.
 
 - **[The Agentic Organization](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-agentic-organization-contours-of-the-next-paradigm-for-the-ai-era)** — McKinsey & Company, Sep 2025. Five-pillar framework for redesigning an enterprise around human-agent collaboration.
 
+- **[AI at Work 2025: Momentum Builds, but Gaps Remain](https://www.bcg.com/publications/2025/ai-at-work-momentum-builds-but-gaps-remain)** — BCG, Jun 2025. Survey of 10,600 workers across 11 countries on AI adoption, ROI, and agent deployment — the primary source on the gap between widespread usage and demonstrated value.
+
 - **[The State of AI in the Enterprise 2026](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)** — Deloitte, 2026. Annual enterprise survey covering adoption rates, ROI measurement, and the gap between AI experimentation and scaled deployment.
 
 - **[The Frontier Firm is Born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born)** — Microsoft WorkLab, Apr 2025. Human-agent hybrid teams and how AI-native organisations are structured, from a survey of 31,000 workers across 31 markets.
 
+- **[Octoverse 2025: The State of Open Source](https://octoverse.github.com/)** — GitHub, Oct 2025. The primary source on how AI is changing how software is written — Copilot usage, AI-authored pull requests, and language shifts driven by LLM tooling.
+
 - **[How 100 Enterprise CIOs Are Building and Buying Gen AI](https://a16z.com/ai-enterprise-2025/)** — Andreessen Horowitz, 2025. How enterprises are structuring AI adoption and why AI-native vendors are winning over incumbents retrofitting AI.
 
 - **[Notes on AI Apps in 2026](https://a16z.com/notes-on-ai-apps-in-2026/)** — Andreessen Horowitz, 2026. Structural advantages AI-native products have over incumbents retrofitting AI.
+
+- **[State of Service Report 2025](https://www.salesforce.com/news/stories/state-of-service-report-announcement-2025/)** — Salesforce, 2025. Survey of 6,500 service professionals on AI's impact on front-line work — the leading source on agent adoption in customer-facing roles.
 
 - **[Enterprise AI Agents Report](https://learn.g2.com/enterprise-ai-agents-report)** — G2, 2025. Survey of enterprise buyers on agentic AI in production: which functions are deploying agents, what outcomes they're measuring, and where the roadblocks are.
 
