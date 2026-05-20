@@ -79,21 +79,7 @@ Industry surveys, analyst reports, and institutional data on how companies are a
 
 - **[The State of AI in Healthcare 2025](https://menlovc.com/perspective/2025-the-state-of-ai-in-healthcare/)** · Menlo Ventures, 2025. Deep survey of AI deployment across U.S. health systems: which clinical use cases have achieved scale, where ROI is being measured, and what's blocking enterprise-wide adoption.
 
----
-
-## Signals
-
-Practitioner perspectives from founders, operators, and investors on where AI is heading and what leading companies are doing about it.
-
-- **[The Founder's Playbook: Building an AI-Native Startup](https://claude.com/blog/the-founders-playbook)** · Anthropic, May 2026. End-to-end practitioner guide covering persistent context, surface selection, validation discipline, measurement frameworks, security baselines, operational bottleneck mapping, and knowledge codification. · [Archived PDF](https://github.com/Fragment256/ai-native-checklist/blob/main/data/sources/founders-playbook-2026-05.pdf)
-
-- **[Software Is Changing (Again)](https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again)** · Andrej Karpathy, YC AI Startup School, Jun 2025. Defines the Software 1.0/2.0/3.0 framework and what it means for how companies should build software and structure engineering teams.
-
-- **[From Hierarchy to Intelligence](https://sequoiacap.com/article/from-hierarchy-to-intelligence/)** · Jack Dorsey & Roelof Botha, Sequoia Capital, Apr 2026. Corporate hierarchy as an obsolete information-routing protocol, with Block's concrete restructuring as a live case study.
-
-- **[Reflexive AI Usage is Now a Baseline Expectation](https://x.com/tobi/status/1909251946235437514)** · Tobi Lütke, Shopify CEO, Apr 2025. Internal-turned-public mandate establishing AI competency as a performance requirement across the company.
-
-- **[Reflections](https://blog.samaltman.com/reflections)** · Sam Altman, OpenAI CEO, Jan 2025. On AI agents materially joining the workforce as virtual co-workers.
+- **[The Founder's Playbook: Building an AI-Native Startup](https://claude.com/blog/the-founders-playbook)** · Anthropic, May 2026. End-to-end practitioner guide on building AI-native companies: persistent context, surface selection, validation discipline, measurement frameworks, security baselines, and knowledge codification. · [Archived PDF](https://github.com/Fragment256/ai-native-checklist/blob/main/data/sources/founders-playbook-2026-05.pdf)
 
 ---
 
