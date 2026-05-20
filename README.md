@@ -16,6 +16,8 @@ A snapshot of where things stand, from the sources below.
 - **30%** of customer service cases are now handled by AI — projected to reach **50%** by 2027. ([Salesforce, 2025](https://www.salesforce.com/news/stories/state-of-service-report-announcement-2025/))
 - GitHub's Copilot coding agent authored over **1 million pull requests** in five months. ([GitHub Octoverse, 2025](https://octoverse.github.com/))
 - **18%** of U.S. firms have integrated AI into their production workflows. ([Federal Reserve, Apr 2026](https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html))
+- **20.2%** of firms across the OECD used AI in 2025 — up from 8.7% in 2023. Large firms (52%) are adopting at three times the rate of small firms (17%). ([OECD, 2026](https://www.oecd.org/en/publications/oecd-ai-observatory-index_32c01014-en.html))
+- Productivity growth has nearly **quadrupled** in industries most exposed to AI since 2022 — and AI skills now command a **56% wage premium**. ([PwC, Jun 2025](https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html))
 
 ---
 
@@ -48,6 +50,12 @@ Industry surveys, analyst reports, and institutional data on how companies are a
 - **[The ROI of AI: New Research on How Enterprises Are Realising Value](https://www.googlecloudpresscorner.com/2025-09-04-Google-Cloud-Study-Reveals-52-of-Executives-Say-Their-Organizations-Have-Deployed-AI-Agents)** — Google Cloud, Sep 2025. Cross-industry survey on agent deployment rates, productivity gains, and the revenue impact companies are attributing to AI.
 
 - **[Monitoring AI Adoption in the U.S. Economy](https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html)** — Federal Reserve Board, Apr 2026. Economy-wide measurement of AI adoption across U.S. firms, tracking which industries and company sizes are integrating AI into production workflows.
+
+- **[OECD AI Observatory Index](https://www.oecd.org/en/publications/oecd-ai-observatory-index_32c01014-en.html)** — OECD, Feb 2026. Government-grade cross-country measurement of AI adoption by firms and individuals — the primary international dataset tracking how adoption varies by country, industry, and company size.
+
+- **[Global AI Jobs Barometer 2025](https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html)** — PwC, Jun 2025. Analysis of nearly one billion job postings across six continents on AI's impact on productivity, wages, and employment — the leading source on the labour market consequences of AI adoption. · [Full PDF](https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer/2025/report.pdf)
+
+- **[Technology Vision 2025: A Declaration of Autonomy](https://www.accenture.com/us-en/insights/technology/technology-trends-2025)** — Accenture, Jan 2025. Survey of 4,000+ executives across 28 countries on enterprise AI autonomy — how companies are embedding AI into workflows, decision-making, and operations at scale.
 
 ---
 
