@@ -26,6 +26,14 @@ Curated by [Fragment256](https://fragment256.com). Contributions welcome — see
 
 - **[Notes on AI Apps in 2026](https://a16z.com/notes-on-ai-apps-in-2026/)** — Andreessen Horowitz, 2026. Structural advantages AI-native products have over incumbents retrofitting AI.
 
+- **[The State of AI in the Enterprise 2026](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/content/state-of-ai-in-the-enterprise.html)** — Deloitte, 2026. Annual enterprise survey covering adoption rates, ROI measurement, and where organisations stall — the primary source on the gap between AI experimentation and scaled deployment.
+
+- **[Monitoring AI Adoption in the U.S. Economy](https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html)** — Federal Reserve Board, Apr 2026. Economy-wide measurement of AI adoption across U.S. firms, tracking which industries and company sizes are integrating AI into production workflows.
+
+- **[Enterprise AI Agents Report](https://learn.g2.com/enterprise-ai-agents-report)** — G2, 2025. Survey of enterprise buyers on agentic AI in production: which functions are deploying agents, what outcomes they're measuring, and where the roadblocks are.
+
+- **[The ROI of AI: New Research on How Enterprises Are Realising Value](https://www.googlecloudpresscorner.com/2025-09-04-Google-Cloud-Study-Reveals-52-of-Executives-Say-Their-Organizations-Have-Deployed-AI-Agents)** — Google Cloud, Sep 2025. Cross-industry survey on agent deployment rates, productivity gains, and the revenue impact companies are attributing to AI.
+
 ---
 
 ## Contributing
