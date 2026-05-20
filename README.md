@@ -16,6 +16,9 @@ A snapshot of where things stand, from the sources below.
 - **30%** of customer service cases are now handled by AI — projected to reach **50%** by 2027. ([Salesforce, 2025](https://www.salesforce.com/news/stories/state-of-service-report-announcement-2025/))
 - GitHub's Copilot coding agent authored over **1 million pull requests** in five months. ([GitHub Octoverse, 2025](https://octoverse.github.com/))
 - **18%** of U.S. firms have integrated AI into their production workflows. ([Federal Reserve, Apr 2026](https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html))
+- **40%** of global employment is exposed to AI — rising to 60% in advanced economies. ([IMF, Apr 2026](https://www.imf.org/en/publications/imf-notes/issues/2026/04/03/global-economic-and-financial-implications-of-artificial-intelligence-lessons-from-a-574924))
+- **61%** of CEOs are actively adopting AI agents today and preparing to implement them at scale. ([IBM, May 2025](https://newsroom.ibm.com/2025-05-06-ibm-study-ceos-double-down-on-ai-while-navigating-enterprise-hurdles))
+- AI will create **170 million new jobs** and eliminate 92 million by 2030 — a net gain of 78 million. ([WEF, Jan 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/))
 - **20.2%** of firms across the OECD used AI in 2025 — up from 8.7% in 2023. Large firms (52%) are adopting at three times the rate of small firms (17%). ([OECD, 2026](https://www.oecd.org/en/publications/oecd-ai-observatory-index_32c01014-en.html))
 - Productivity growth has nearly **quadrupled** in industries most exposed to AI since 2022 — and AI skills now command a **56% wage premium**. ([PwC, Jun 2025](https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html))
 
@@ -56,6 +59,12 @@ Industry surveys, analyst reports, and institutional data on how companies are a
 - **[Global AI Jobs Barometer 2025](https://www.pwc.com/gx/en/services/ai/ai-jobs-barometer.html)** — PwC, Jun 2025. Analysis of nearly one billion job postings across six continents on AI's impact on productivity, wages, and employment — the leading source on the labour market consequences of AI adoption. · [Full PDF](https://www.pwc.com/gx/en/issues/artificial-intelligence/job-barometer/2025/report.pdf)
 
 - **[Technology Vision 2025: A Declaration of Autonomy](https://www.accenture.com/us-en/insights/technology/technology-trends-2025)** — Accenture, Jan 2025. Survey of 4,000+ executives across 28 countries on enterprise AI autonomy — how companies are embedding AI into workflows, decision-making, and operations at scale.
+
+- **[Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)** — World Economic Forum, Jan 2025. The definitive source on AI's impact on employment — surveying 1,000+ employers representing 14 million workers across 55 economies on job creation, displacement, and skills gaps through 2030. · [Full PDF](https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf)
+
+- **[CEO Study 2025: CEOs Double Down on AI](https://newsroom.ibm.com/2025-05-06-ibm-study-ceos-double-down-on-ai-while-navigating-enterprise-hurdles)** — IBM Institute for Business Value, May 2025. Global survey of 2,000 CEOs on AI investment priorities, agent adoption, and the organisational barriers slowing enterprise AI at scale.
+
+- **[Global Economic and Financial Implications of Artificial Intelligence](https://www.imf.org/en/publications/imf-notes/issues/2026/04/03/global-economic-and-financial-implications-of-artificial-intelligence-lessons-from-a-574924)** — International Monetary Fund, Apr 2026. Macroeconomic scenario analysis of AI's impact on global growth, financial stability, inequality, and labour markets across advanced and emerging economies.
 
 ---
 
