@@ -4,6 +4,12 @@ A curated list of authoritative resources on the state of AI adoption: research,
 
 Curated by [Fragment256](https://fragment256.com). Contributions welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
+## Contents
+
+- [Key Numbers](#key-numbers)
+- [Research](#research)
+- [Contributing](#contributing)
+
 ---
 
 ## Key Numbers
