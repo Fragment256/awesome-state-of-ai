@@ -17,6 +17,9 @@ A snapshot of where things stand, from the sources below.
 - GitHub's Copilot coding agent authored over **1 million pull requests** in five months. ([GitHub Octoverse, 2025](https://octoverse.github.com/))
 - **18%** of U.S. firms have integrated AI into their production workflows. ([Federal Reserve, Apr 2026](https://www.federalreserve.gov/econres/notes/feds-notes/monitoring-ai-adoption-in-the-u-s-economy-20260403.html))
 - **40%** of global employment is exposed to AI — rising to 60% in advanced economies. ([IMF, Apr 2026](https://www.imf.org/en/publications/imf-notes/issues/2026/04/03/global-economic-and-financial-implications-of-artificial-intelligence-lessons-from-a-574924))
+- **20%** of EU enterprises with 10+ employees used AI in 2025 — up from 13.5% in 2024. Large firms (55%) adopt at three times the rate of small firms (17%). ([Eurostat, Dec 2025](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251211-2))
+- **75%** of U.S. health systems are now using at least one AI application — up from 59% the prior year. ([Fierce Healthcare / Eliciting Insights, 2026](https://www.fiercehealthcare.com/ai-and-machine-learning/75-us-healthcare-systems-use-plan-use-ai-platform-2026))
+- In financial services, fintechs lead incumbents **47% to 30%** in advanced AI adoption — but only 14% of the industry views AI as transformational to their strategy. ([Cambridge Judge Business School, 2026](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2026-global-ai-in-financial-services-report/))
 - **61%** of CEOs are actively adopting AI agents today and preparing to implement them at scale. ([IBM, May 2025](https://newsroom.ibm.com/2025-05-06-ibm-study-ceos-double-down-on-ai-while-navigating-enterprise-hurdles))
 - AI will create **170 million new jobs** and eliminate 92 million by 2030 — a net gain of 78 million. ([WEF, Jan 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/))
 - **20.2%** of firms across the OECD used AI in 2025 — up from 8.7% in 2023. Large firms (52%) are adopting at three times the rate of small firms (17%). ([OECD, 2026](https://www.oecd.org/en/publications/oecd-ai-observatory-index_32c01014-en.html))
@@ -65,6 +68,16 @@ Industry surveys, analyst reports, and institutional data on how companies are a
 - **[CEO Study 2025: CEOs Double Down on AI](https://newsroom.ibm.com/2025-05-06-ibm-study-ceos-double-down-on-ai-while-navigating-enterprise-hurdles)** — IBM Institute for Business Value, May 2025. Global survey of 2,000 CEOs on AI investment priorities, agent adoption, and the organisational barriers slowing enterprise AI at scale.
 
 - **[Global Economic and Financial Implications of Artificial Intelligence](https://www.imf.org/en/publications/imf-notes/issues/2026/04/03/global-economic-and-financial-implications-of-artificial-intelligence-lessons-from-a-574924)** — International Monetary Fund, Apr 2026. Macroeconomic scenario analysis of AI's impact on global growth, financial stability, inequality, and labour markets across advanced and emerging economies.
+
+- **[Use of AI Technologies in EU Enterprises](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20251211-2)** — Eurostat (European Commission), Dec 2025. Official EU-wide statistical survey of AI adoption across enterprises, covering adoption rates by country, company size, and industry. The authoritative source for European enterprise AI data. · [Full report PDF](https://ec.europa.eu/eurostat/documents/7870049/23260410/KS-01-26-009-EN-N.pdf)
+
+- **[Blueprint to Action: China's Path to AI-Powered Industry Transformation](https://reports.weforum.org/docs/WEF_Blueprint_to_Action_Chinas_Path_to_AI-Powered_Industry_Transformation_2025.pdf)** — World Economic Forum, 2025. How China is deploying AI across industrial sectors — from manufacturing and R&D to logistics and operations — with concrete enterprise deployment data and policy context.
+
+- **[2026 Global AI in Financial Services Report](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/publications/2026-global-ai-in-financial-services-report/)** — Cambridge Centre for Alternative Finance, Jan 2026. The most comprehensive academic survey of AI adoption in financial services — covering banks, fintechs, insurers, and regulators across 130+ institutions globally.
+
+- **[Artificial Intelligence in Financial Services 2025](https://reports.weforum.org/docs/WEF_Artificial_Intelligence_in_Financial_Services_2025.pdf)** — World Economic Forum, 2025. Strategic framework for how financial institutions are deploying AI — governance models, risk management, and the gap between early adoption and systemic integration.
+
+- **[The State of AI in Healthcare 2025](https://menlovc.com/perspective/2025-the-state-of-ai-in-healthcare/)** — Menlo Ventures, 2025. Deep survey of AI deployment across U.S. health systems — which clinical use cases have achieved scale, where ROI is being measured, and what's blocking enterprise-wide adoption.
 
 ---
 
